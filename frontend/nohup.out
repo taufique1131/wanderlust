@@ -1,0 +1,38 @@
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.0  ready in 288 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.31.29.197:5173/
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.5.0  ready in 339 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://172.31.29.197:5174/
+8:30:31 PM [vite] .env.local changed, restarting server...
+8:30:31 PM [vite] .env.local changed, restarting server...
+8:30:32 PM [vite] server restarted.
+Port 5173 is in use, trying another one...
+8:30:32 PM [vite] server restarted.
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://172.31.29.197:5174/
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  VITE v4.5.0  ready in 395 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://172.31.29.197:5175/
