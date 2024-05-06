@@ -16,7 +16,7 @@ WORKDIR /app
 
 COPY --from=backend-build /app .
 
-COPY .env.sample .env
+COPY .env.docker .env
 
 EXPOSE 5000
 
